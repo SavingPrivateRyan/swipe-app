@@ -20,5 +20,11 @@ const styles = StyleSheet.create({
     backgroundColor: 'pink',
     justifyContent: 'flex-end',
     alignItems: 'flex-end'
+  },
+  buttonContainer: {
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center'
   }
+
 })
