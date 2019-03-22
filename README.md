@@ -1,1 +1,3 @@
-swipe-app
+#Swipe project!
+
+Project for DEVs workshops
